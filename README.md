@@ -27,8 +27,8 @@ This project demonstrates how to authenticate users and manage protected routes 
 To begin, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-repository/nextjs-laravel-auth
-cd nextjs-laravel-auth
+git clone https://github.com/srkonok/nextjs-contextAPI.git
+cd nextjs-contextAPI
 npm install
 ```
 
